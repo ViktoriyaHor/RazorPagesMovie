@@ -1,0 +1,55 @@
+# ASP.NET Core
+bin/
+obj/
+wwwroot/
+*.db
+*.log
+*.dmp
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Core settings
+appsettings*.json
+*Secrets.json
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# JetBrains Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Dotnet tools
+*.dotnet/
